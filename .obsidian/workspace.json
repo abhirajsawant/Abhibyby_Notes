@@ -8,33 +8,46 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5ca5443d303da125",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE/Semester 3/Digital Electronics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Digital Electronics"
-            }
-          },
-          {
             "id": "daf79c20db053cf3",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/DE_lec01.excalidraw.md"
+                "file": "ECE/Semester 3/ECE_SEM3_data/DE_lec01.excalidraw.md"
               },
               "icon": "excalidraw-icon",
               "title": "DE_lec01.excalidraw"
             }
+          },
+          {
+            "id": "333e7ac07fcdc432",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/abhirajsawant/FacultyofTechnology-Space/blob/main/Excalidraw/DE_lec01.excalidraw.md",
+                "title": "FacultyofTechnology-Space/Excalidraw/DE_lec01.excalidraw.md at main · abhirajsawant/FacultyofTechnology-Space · GitHub",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "FacultyofTechnology-Space/Excalidraw/DE_lec01.excalidraw.md at main · abhirajsawant/FacultyofTechnology-Space · GitHub"
+            }
+          },
+          {
+            "id": "fd32d7fb789f85be",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.rapidtables.com/convert/number/binary-to-decimal.html",
+                "title": "Binary to Decimal Converter",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Binary to Decimal Converter"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f5c3d5bd7323c8e2",
@@ -112,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/DE_lec01.excalidraw.md",
+                "file": "ECE/Semester 3/Digital Electronics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/DE_lec01.excalidraw.md",
+                "file": "ECE/Semester 3/Digital Electronics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -174,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/DE_lec01.excalidraw.md",
+                "file": "ECE/Semester 3/Digital Electronics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -192,13 +206,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "5f8311eabca18bd5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 205.29998779296875
+    "width": 383.9000244140625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,15 +234,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "daf79c20db053cf3",
+  "active": "ffbfa135290cc635",
   "lastOpenFiles": [
+    "ECE/Semester 3/ECE_SEM3_data/DE_lec01.excalidraw.md",
     "ECE/Semester 3/Digital Electronics.md",
-    "Excalidraw/DE_lec01.excalidraw.md",
-    "Excalidraw",
+    "Ink/Drawing/2026.10.19 - 3.18am.svg",
     "ECE/Semester 3/Notes- Digital Design by M. Mano and Michael D. Ciletti (Pearson).md",
+    "Ink/Drawing",
+    "Ink",
+    "Excalidraw",
     "ECE/Semester 3/ECE_SEM3_data/Pasted image 20261019014737.png",
     "ECE/Semester 3/ECE_SEM3_data",
     "ECE/Semester 3",
