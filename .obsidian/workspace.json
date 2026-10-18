@@ -25,12 +25,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://github.com/abhirajsawant/FacultyofTechnology-Space/blob/main/Excalidraw/DE_lec01.excalidraw.md",
-                "title": "FacultyofTechnology-Space/Excalidraw/DE_lec01.excalidraw.md at main · abhirajsawant/FacultyofTechnology-Space · GitHub",
+                "url": "https://github.com/abhirajsawant/FacultyofTechnology-Space/tree/main/ECE/Semester%203",
+                "title": "FacultyofTechnology-Space/ECE/Semester 3 at main · abhirajsawant/FacultyofTechnology-Space · GitHub",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "FacultyofTechnology-Space/Excalidraw/DE_lec01.excalidraw.md at main · abhirajsawant/FacultyofTechnology-Space · GitHub"
+              "title": "FacultyofTechnology-Space/ECE/Semester 3 at main · abhirajsawant/FacultyofTechnology-Space · GitHub"
             }
           },
           {
@@ -39,12 +39,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.rapidtables.com/convert/number/binary-to-decimal.html",
-                "title": "Binary to Decimal Converter",
+                "url": "https://www.rapidtables.com/convert/number/decimal-to-hex.html?x=252.512",
+                "title": "Decimal to Hex Converter",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Binary to Decimal Converter"
+              "title": "Decimal to Hex Converter"
             }
           }
         ]
@@ -109,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f5c3d5bd7323c8e2",
@@ -238,7 +237,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ffbfa135290cc635",
+  "active": "daf79c20db053cf3",
   "lastOpenFiles": [
     "ECE/Semester 3/ECE_SEM3_data/DE_lec01.excalidraw.md",
     "ECE/Semester 3/Digital Electronics.md",
