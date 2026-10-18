@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE/Semester 3/Notes- Digital Design by M. Mano and Michael D. Ciletti (Pearson).md",
+                "file": "ECE/Semester 3/Digital Electronics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes- Digital Design by M. Mano and Michael D. Ciletti (Pearson)"
+              "title": "Digital Electronics"
+            }
+          },
+          {
+            "id": "daf79c20db053cf3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/DE_lec01.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "DE_lec01.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ECE/Semester 3/Notes- Digital Design by M. Mano and Michael D. Ciletti (Pearson).md",
+                "file": "Excalidraw/DE_lec01.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ECE/Semester 3/Notes- Digital Design by M. Mano and Michael D. Ciletti (Pearson).md",
+                "file": "Excalidraw/DE_lec01.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ECE/Semester 3/Notes- Digital Design by M. Mano and Michael D. Ciletti (Pearson).md",
+                "file": "Excalidraw/DE_lec01.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -200,11 +213,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ca5443d303da125",
+  "active": "daf79c20db053cf3",
   "lastOpenFiles": [
-    "ECE/Semester 3/ECE_SEM3_data/Pasted image 20261019014737.png",
-    "ECE/Semester 3/Notes- Digital Design by M. Mano and Michael D. Ciletti (Pearson).md",
     "ECE/Semester 3/Digital Electronics.md",
+    "Excalidraw/DE_lec01.excalidraw.md",
+    "Excalidraw",
+    "ECE/Semester 3/Notes- Digital Design by M. Mano and Michael D. Ciletti (Pearson).md",
+    "ECE/Semester 3/ECE_SEM3_data/Pasted image 20261019014737.png",
     "ECE/Semester 3/ECE_SEM3_data",
     "ECE/Semester 3",
     "ECE"
